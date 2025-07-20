@@ -11,7 +11,7 @@ const Footer = () => {
         <div className='mb-6 md:mb-0'>
             <Link to='/'>
               {/* <img src={Logo} alt="" className='w-32'/> */}
-              <h1 className='text-red-500 text-2xl font-bold'>Yash<span className='text-white'>Eccommerce</span></h1>
+              <h1 className='text-red-500 text-2xl font-bold'>Yash<span className='text-white'>Ecommerce</span></h1>
             </Link>
         </div>
         {/* customer service link */}
